@@ -2693,7 +2693,7 @@ __metadata:
   dependencies:
     eslint-plugin-prettier: 3.3.1
     ky: ^0.27.0
-    ky-universal: ^0.8.2
+    ky-universal: ^0.9.0
     prettier: 2.2.1
     prettier-config-xo: 1.0.3
     source-map-support: 0.5.19
@@ -3926,19 +3926,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ky-universal@npm:^0.8.2":
-  version: 0.8.2
-  resolution: "ky-universal@npm:0.8.2"
+"ky-universal@npm:^0.9.0":
+  version: 0.9.1
+  resolution: "ky-universal@npm:0.9.1"
   dependencies:
     abort-controller: ^3.0.0
     node-fetch: 3.0.0-beta.9
   peerDependencies:
-    ky: ">=0.17.0"
-    web-streams-polyfill: ">=2.0.0"
+    ky: ">=0.26.0"
+    web-streams-polyfill: ">=3.0.1"
   peerDependenciesMeta:
     web-streams-polyfill:
       optional: true
-  checksum: da33c771eaa63348d586846ce706c03c42f4ab475c5661609712e0e62078d11bbbc98834257dd3b81838e094613800724756c23550e295f6e8aa0dbc67d16f43
+  checksum: 424e6e57e7fea8d7e3e8e16e6586a21c0bd6dc7b8036f89f6e3506bbe63e6b133a321c7a23efbc96023b6b6ff090260d636d32a9586145579b2ae8d45aa382cc
   languageName: node
   linkType: hard
 
